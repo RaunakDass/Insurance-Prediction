@@ -13,4 +13,4 @@ This is the "Sample Insurance Claim Prediction Dataset" which is based on "[Medi
 
 # Solution
 
-We are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization is also performed to support Analysis. 
+We are Predicting the Insurance Claim by each user. Machine Learning algorithms for Regression analysis are used and Data Visualization is also performed to support Analysis. 
